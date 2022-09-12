@@ -1,9 +1,3 @@
-![Build,Test](https://github.com/Abhilash-Chandran/number_inc_dec/workflows/Build,Test/badge.svg)
-<!-- ![Publish](https://github.com/Abhilash-Chandran/number_inc_dec/workflows/Publish/badge.svg) -->
-[![pub package](https://img.shields.io/pub/v/number_inc_dec.svg?label=number_inc_dec)](https://pub.dev/packages/number_inc_dec)
-[![codecov](https://codecov.io/gh/Abhilash-Chandran/number_inc_dec/branch/master/graph/badge.svg)](https://codecov.io/gh/Abhilash-Chandran/number_inc_dec)
-<a href="https://www.buymeacoffee.com/abhilashC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="25px" ></a>
-
 # inc_dec_textField
 
 This is a simple TextFormField with buttons and logic to handle factored increments/decrements and with some additional properties like Negative value allow and show currency.
